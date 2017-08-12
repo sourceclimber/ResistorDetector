@@ -15,7 +15,7 @@ This package contains the classes for the Android UI. This includes Activities (
 - ***.resistordetector.detection:**:
 This package includes the classes for the Detection Algorithms. This includes one class for each of the four detection methods and some smaller helper classes for image, matrices, and color processing.
 
-![Android App](/doc/Android_App_2_Detected_framed.png)
+![Android App](/doc/Android_App_2_Detected_framed_scaled.png) ![Android App 2](/doc/Android_App_4_Settings_framed_scaled.png)
 
 
 ## Desktop Application
@@ -33,4 +33,4 @@ This package includes almost the same classes for the Detection Algorithms like 
 
 Both *.detection* packages, the one for the Android App and the one for the desktop, contain almost the same classes and can be interchanged. A small difference is in the handling of images, where Java on the desktop uses the BufferedImage class and Android uses the Bitmap class. When copying the detection code from the desktop to the android project, this classes must be replaced.
 
-![Desktop Application](/doc/DesktopApp_small.PNG)
+![Desktop Application](/doc/DesktopApp_small_scaled.PNG)
