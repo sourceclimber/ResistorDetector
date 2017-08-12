@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ResistorDetectorTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ResistorDetectorTest_jar</output-path>
+    <root id="archive" name="ResistorDetectorTest.jar">
+      <element id="module-output" name="ResistorDetectorDesktop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/opencv-320.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
